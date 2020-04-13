@@ -1,2 +1,2 @@
 # hello-js
-this is a hello 
+This is a hello 
